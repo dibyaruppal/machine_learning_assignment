@@ -1,4 +1,5 @@
-# 1 Book Review
+# Machine Learning Assisgment II
+## 1 Book Review
 Given the review text and other information about it, you have to predict the rating associated with that review.
 Check the attached excel file which contains the group details, Kaggle competition links, and WhatsApp group links.
 Although the dataset is same for everyone, the competitions will be in groups. Each TA will hosting
@@ -34,7 +35,7 @@ and again. Save your preprocessed data and read about saving models with pickle.
 On LMS, you will submit the .ipynb that gave you the best results (the one you selected for
 private leader board) and the report.
 
-# 2 Neural Networks
+## 2 Neural Networks
 You have to build a neural network using Numpy. So you CANNOT use TensorFlow, PyTorch
 or any other library with built-in neural networks.
 The dataset is uploaded on LMS along with this assignment. It is a regression task. You have to
